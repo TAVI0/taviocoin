@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 🪙 TAVIOCOIN (TAV)
 
 **TavioCoin** es un token ERC-20 creado con fines experimentales dentro del ecosistema Polygon.  
@@ -12,7 +8,7 @@
 ## 🧠 Características principales
 
 - **Estándar:** ERC-20  
-- **Blockchain:** Polygon
+- **Blockchain:** Polygongit ff
 - **Lenguaje:** Solidity  
 - **Compilador:** ^0.9.x  
 - **Supply inicial:** configurable  
