@@ -1,4 +1,4 @@
-# 🪙 TAVIOCOIN (TAV)
+# TAVIOCOIN (TAV)
 
 **TavioCoin** es un token ERC-20 creado con fines experimentales dentro del ecosistema Polygon.  
 
